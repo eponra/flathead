@@ -50,7 +50,7 @@
   - https://www.robotdigg.com/product/1314/Black-anodized-linear-rail-7,-9,-12-and-15
 
 - [ ]  **Hotend Fan**
-  - 24V 3020 Sunon
+  - 24V 4020 Sunon (have these on nearly all my printers; near silent hotend cooling)
   - 11,75€
   - https://www.aliexpress.com/item/32251774671.html
 
@@ -63,7 +63,7 @@
   - T8, black, 250mm
   - 10,97€
   - https://www.aliexpress.com/item/1005002054258631.html
-  - you have to cut that leadscrew(!) to length
+  - you (may) have to cut that leadscrew(!) to length
 
 - [ ]  **5 to 8mm Coupler**
   - A Set of 5mm to 8mm Coupler, for the Leadscrew
@@ -76,9 +76,13 @@
   - https://www.aliexpress.com/item/1005001650755939.html
 
 - [ ]  **Extrusions**
-  - 4x 300mm 1515, black anodized,
-  - 13,03€
-  - 
+  - 2x 250mm 4020
+  - 1x 160mm 4020
+  - 1x 110mm 4020
+  - 1x 330mm 2020
+  - 2x 215mm 2020
+  - ~20€
+  - no link here, as you can probably source that locally the cheapest
   - must also be cut to length
 
 - [ ]  **M3 Heated Inserts**
