@@ -1,4 +1,4 @@
-# Flathead
+# flathead
 The first tower-slinger there was.
 Became a reality because i wanted to put the cantilever idea to the extreme, and proving that this can work.
 Testbed for a lot of ideas, but with that also a very reliable printer, which now
