@@ -1,15 +1,19 @@
 # Bill of Materials
+(Disclaimer: this list is probably not complete, and may change a bit around. Right now im redoing all the pulley and idlermounts with copperbushings for example)
 
 - [ ]  **Head**
-  - Mellow FLY E3 PRO-V3 (with very nice onboard tmc2209, and wifi)
+  - Mellow FLY E3 PRO-V3 (with very nice onboard tmc2209, and wifi; the actual board im running is the Fly E3-RRF, which is discontinued, so you might have to change some things in the config.g)
   - 76€
   - https://www.aliexpress.com/item/1005001701631493.html
+
+- [ ]  **Display**
+  - Mellow Fly Mini LCD12864
+  - 13,60€
+  - https://www.aliexpress.com/item/1005003579276633.html
 
 - [ ]  **Extruder**
   - Mobius M4 from the voron project, slightly modified
   - 17€ for all mechanical parts, you still have to print
-  - https://www.aliexpress.com/item/1005002964468059.html
-  - or Mellow Orbiter (needs testing)
 
 - [ ]  **Hotend**
   - Mellow NF Smart
@@ -76,11 +80,13 @@
   - https://www.aliexpress.com/item/1005001650755939.html
 
 - [ ]  **Extrusions**
-  - 2x 250mm 4020
-  - 1x 160mm 4020
-  - 1x 110mm 4020
+  - 2x 250mm 2040
+  - 1x 160mm 2040
+  - 1x 110mm 2040
+  - (770mm of 2040, so one 800mm should be enough)
   - 1x 330mm 2020
   - 2x 215mm 2020
+  - (760mm of 2020 Extrusion, so again 800m one should be enough)
   - ~20€
   - no link here, as you can probably source that locally the cheapest
   - must also be cut to length
@@ -96,15 +102,20 @@
   - https://www.aliexpress.com/item/4000062956240.html
   - 280pcs in the set, only M3
 
+- [ ]  **M6 Screws** 
+  - 18,59€ for a set
+  - https://www.aliexpress.com/item/1005002109863123.html
+  - 146pcs in the set, only M6
+
 - [ ]  **Belts** 
   - Mellow 2GT Belt 6mm
-  - 9,52€ for 10m
-  - https://www.aliexpress.com/item/32660308487.html
+  - 14,58€ for 2m
+  - https://www.aliexpress.com/item/1005002307826257.html
 
-- [ ]  **roughly 25 M3 Nuts as tnuts** 
+- [ ]  **M3 Tnuts for 2020/2040** 
   - no cost, because there are more already in the M3 Screw Set
   - i experimented with tnut-style variants for the build in 1515, but M3 nuts work well, so no reason to buy them
-  - roughly 25, because its on you how many you use for the rails
+  - https://www.aliexpress.com/item/32788058829.html
 
 - [ ]  **4x F695 2RS Bearings** 
   - 5,69€ for 10
@@ -147,5 +158,5 @@
 price could still fluctuate a tad. You will notice that a lot of parts are from Mellow; this is because its the brand i trust, and also this helps with keeping postage lower**
 
 Also, you could maybe save a few bucks left and right. It doesnt have to be
-gdstime fans for example, and a 120W PSU will also do the job.  With that out
+Sunon fans for example.  With that out
 of the way, happy sourcing and building!
