@@ -5,20 +5,25 @@ Testbed for a lot of ideas, but with that also a very reliable printer, which no
 printed roughly 1500h without bigger problems.
 And because this gave me so much joy, the reason flatpack (the foldable tower-slinger) even became a thing.
 
+![Flathead_-_stable_with_bacon_2022-Aug-31_11-35-06AM-000_CustomizedView4818566557](https://user-images.githubusercontent.com/66600478/187670195-1e753cc7-9b8d-4c3e-aaf0-e0667f4c39f9.png)
+![Flathead_-_stable_with_bacon_2022-Aug-31_11-36-43AM-000_CustomizedView13046548578](https://user-images.githubusercontent.com/66600478/187670244-6fd49df4-2347-4ecf-b420-999d1596f884.png)
+
 
 https://user-images.githubusercontent.com/66600478/187232003-ea716ff7-21ce-4158-b240-b177a1a8f67b.mp4
+
 Also has the most satisfying homing sequence like ever.
 
 https://user-images.githubusercontent.com/66600478/187231722-0c1ebc80-13b8-49a5-a3d9-7ca5fb9cb5c2.mp4
 
 https://user-images.githubusercontent.com/66600478/183500945-2cf039b2-9133-45dd-af40-6a08152f20f8.mp4
+
 (flatpack and flathead printing gridfinity parts; flatpack with the old hotendsetup (4010 hotend, 3010 for partcooling)
 
 
 ###### Technical Data:
 
 - fixed bed cantilever, with an "extruder on a pole"-setup
-- buildvolume of 200x200x140 (so kinda "flat")
+- buildvolume of 210x210x140 (so kinda "flat")
 - heated bed that can reach up to 110°C
 - Hotend capable of temperatures up to 300°C, if you choose the Copper NF Smart 500°C
 - runs RRF with Mellows wonderful Fly RRF-E3, which is sadly discontinued
